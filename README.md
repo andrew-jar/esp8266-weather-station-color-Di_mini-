@@ -7,7 +7,9 @@ Główny ekran pokazuje czas, datę, aktualną pogodę, 7-dniową prognozę i fa
 
 Pierwsze uruchomienie:
 WiFiManager - utworzy AP - portal konfiguracyjny pod nazwą:
+
 "StacjaPogodowa-Config"
+
 WIFI_MANAGER_AP_PASSWORD "pogoda123"  // hasło do portalu konfiguracyjnego
 
 ![20250807_193353](https://github.com/user-attachments/assets/fdef8cc3-935c-4490-bf3f-2002abac6645)
