@@ -4,27 +4,58 @@
 Openweather zwraca opis pogody w j. ang. dodałem:
 
 // implementacja funkcji removePolishAccents
+
 String removePolishAccents(String text) {
+
   // Zamiana polskich ogonków na znaki bez ogonków
+  
   text.replace("ą", "a");
+  
   text.replace("Ą", "A");
+  
   text.replace("ć", "c");
+  
   text.replace("Ć", "C");
+  
   text.replace("ę", "e");
+  
   text.replace("Ę", "E");
+  
   text.replace("ł", "l");
+  
   text.replace("Ł", "L");
+  
   text.replace("ń", "n");
+  
   text.replace("Ń", "N");
+  
   text.replace("ó", "o");
+  
   text.replace("Ó", "O");
+  
   text.replace("ś", "s");
+  
   text.replace("Ś", "S");
+  
   text.replace("ź", "z");
+  
   text.replace("Ź", "Z");
+  
   text.replace("ż", "z");
+  
   text.replace("Ż", "Z");
   
+  i teraz wyświetla opis na ekranie:
+  
+"śnieg" → "snieg" ✅
+  
+"duże zachmurzenie" → "duze zachmurzenie" ✅
+
+"częściowo zachmurzenie" → "czesciowo zachmurzenie" ✅
+
+"słońce" → "slonce" ✅
+
+
 
 ESP8266 Stacja pogodowa Color przy użyciu wyświetlacza TFT ILI9341 240x320, 2,8-calowy ekran dotykowy.
 Ekran pokazuje lokalne warunki za pośrednictwem Open Weather Map. 
