@@ -19,4 +19,7 @@ WIFI_MANAGER_AP_PASSWORD "pogoda123"  // hasło do portalu konfiguracyjnego
 
 
 Ustawienia pliku platformio.ini
+
 ![2025-08-10_085800](https://github.com/user-attachments/assets/488f10ad-ecf3-48a3-b0c9-00e887f627fd)
+
+Schemat podłączenia esp8266 z ILI9341, dostępny w pliku "\src\resources\PlaneSpotterWiring.png"
