@@ -1,1 +1,1 @@
-# esp8266-weather-station-color-Di_mini-
+# esp8266-weather-station-color-D1_mini-
