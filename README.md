@@ -47,13 +47,13 @@ String removePolishAccents(String text) {
   
   i teraz wyświetla opis na ekranie:
   
-"śnieg" → "snieg" ✅
+" nieg" → "snieg" ✅
   
-"duże zachmurzenie" → "duze zachmurzenie" ✅
+"du e zachmurzenie" → "duze zachmurzenie" ✅
 
-"częściowo zachmurzenie" → "czesciowo zachmurzenie" ✅
+"cz  ciowo zachmurzenie" → "czesciowo zachmurzenie" ✅
 
-"słońce" → "slonce" ✅
+"s o ce" → "slonce" ✅
 
 
 
