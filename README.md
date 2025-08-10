@@ -1,4 +1,6 @@
-# esp8266-weather-station-color-D1_mini-
+# esp8266-weather-station-color-D1_mini 
+
+(oryginalny kod ThingPulse, został zmodyfikowany w dużej mierze do moich wymagań i potrzeb )
 
 ESP8266 Stacja pogodowa Color przy użyciu wyświetlacza TFT ILI9341 240x320, 2,8-calowy ekran dotykowy.
 Ekran pokazuje lokalne warunki za pośrednictwem Open Weather Map. 
